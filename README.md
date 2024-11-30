@@ -1,4 +1,3 @@
-# MedRG
-MedRG: Medical Report Grounding with Multi-modal Large Language Model
-
+# uMedGround
+Uncertainty-aware Medical Diagnostic Phrase Identifying and Grounding
 Codes are coming soon.
