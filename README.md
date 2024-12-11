@@ -20,6 +20,8 @@
 ## Curated Datasets
 * [MRG-MS-CXR dataset]
 * [MRG-ChestX-ray8 dataset]
+* [MRG-MIMIC-VQA]
+* [MRG-MIMIC-Class dataset]
 
 ## Code Usage
 For now, we've only exposed the main_train and main_test code to get a feel for this manuscript.
