@@ -44,10 +44,7 @@ and Yuan, Xuedong
 and Shen, Xiaojing
 and Fu, Huazhu",
 title="MedRG: Medical Report Grounding with Multi-modal Large Language Model",
-booktitle="Medical Image Computing and Computer Assisted Intervention -- MICCAI 2023",
-year="2023",
-publisher="Springer Nature Switzerland",
-address="Cham",
-pages="596--606",
+journal={arXiv preprint arXiv:2404.06798},
+year={2024}
 }
 ```
