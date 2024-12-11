@@ -18,6 +18,8 @@
 * [Medical-Diff-VQA dataset](https://physionet.org/content/medical-diff-vqa/1.0.0/)
 
 ## Curated Datasets
+If the paper goes to substantive review, we promise to disclose all the datasets.
+
 * [MRG-MS-CXR dataset]
 * [MRG-ChestX-ray8 dataset]
 * [MRG-MIMIC-VQA]
