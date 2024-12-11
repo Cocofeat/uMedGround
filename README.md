@@ -13,9 +13,9 @@
 - ...
 
 ## Public Datasets
-* [MIMIC-CXR dataset]
-* [ChestX-ray8 dataset]
-* [Medical-Diff-VQA dataset]
+* [MIMIC-CXR dataset](https://physionet.org/content/mimic-cxr/2.0.0/)
+* [ChestX-ray8 dataset](https://ar5iv.labs.arxiv.org/html/1705.02315)
+* [Medical-Diff-VQA dataset](https://physionet.org/content/medical-diff-vqa/1.0.0/)
 
 ## Curated Datasets
 * [MRG-MS-CXR dataset]
