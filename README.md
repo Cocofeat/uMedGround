@@ -3,6 +3,7 @@
 * Current Pre-implementation of [uMedGround](https://arxiv.org/abs/2404.06798)
 
 ## Requirment
+```pip install requirements.txt```
 - torch==1.13.1
 - torchvision==0.14.1
 - packaging
@@ -10,7 +11,6 @@
 - peft==0.4.0
 - einops==0.4.1
 - ...
-```pip install requirements.txt```
 
 ## Public Datasets
 * [MIMIC-CXR dataset]
@@ -31,9 +31,9 @@ If the paper goes to substantive review, we promise to disclose all the codes an
 - Run the script ```python main_test.py```
 
 ## Citation
-If you find EyeMoSt helps your research, please cite our paper:
+If you find uMedGround helps your research, please cite our paper:
 ```
-@InProceedings{EyeMoSt_Zou_2023,
+@InProceedings{uMedGround_Zou_2024,
 author="Zou, Ke
 and Bai, Yang
 and Chen, Zhihao
