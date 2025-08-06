@@ -71,7 +71,7 @@ year={2024}
 ```
 
 ## Acknowledgement
-Part of the code is revised from [LISA](https://github.com/dvlab-research/LISA)
+-  This work is built upon the  [LISA](https://github.com/dvlab-research/LISA)
 
 ## Contact
 * If you have any problems about our work, please contact [me](kezou8@gmail.com) 
