@@ -7,6 +7,13 @@ Medical phrase grounding is crucial for identifying relevant regions in medical 
 
 <p align="center"> <img src="image/Visio-Method.png" width="100%"> </p>
 
+## Highlights
+**uMedGround** unlocks the medical report grounding, which aims to directly identify diagnostic phrases and their corresponding grounding boxes from medical reports in an end-to-end manner: 
+1. End-to-end medical report phrase grounding; 
+2. Multimodal framework with box token embedding; 
+3. Uncertainty-aware grounding prediction model; 
+4. Generalization to VQA and localization tasks. 
+
 ## Requirment
 ```pip install requirements.txt```
 - torch==1.13.1
