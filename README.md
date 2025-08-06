@@ -12,7 +12,14 @@ Medical phrase grounding is crucial for identifying relevant regions in medical 
 1. End-to-end medical report phrase grounding; 
 2. Multimodal framework with box token embedding; 
 3. Uncertainty-aware grounding prediction model; 
-4. Generalization to VQA and localization tasks. 
+4. Generalization to VQA and localization tasks.
+
+## Results
+<p align="center"> <img src="image/Visio-Method.png" width="100%"> </p>
+
+## Applications
+<p align="center"> <img src="image/Visio-Method.png" width="100%"> </p>
+
 
 ## Requirment
 ```pip install requirements.txt```
