@@ -1,5 +1,5 @@
 # uMedGround
-* This repository provides the code for our submission paper "Uncertainty-aware Medical Diagnostic Phrase Identifying and Grounding" 
+* This repository provides the code for our accepted TPAMI 2025 paper "Uncertainty-aware Medical Diagnostic Phrase Identifying and Grounding" 
 * Current Pre-implementation of [uMedGround](https://arxiv.org/abs/2404.06798)
 
 ## Introduction
