@@ -45,7 +45,7 @@ If the paper goes to substantive review, we promise to disclose all the codes an
 * [2025/08/06] We will release all codes and datasets as soon as possible.
 * [2025/08/06] Our camera-ready paper was released first on the [arixv](https://arxiv.org/abs/2404.06798). 
 * [2025/08/04] Our paper was accepted by IEEE TPAMI 2025, thanks all my collobrators. 
-* [2025/06/26] Our related paer accepted by **ICCV 2025**: "GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis"[[Paper]](https://arxiv.org/pdf/2406.09317)[[Link]](https://www.med-vqa.com/GEMeX/), Congrats to Bo ! !
+* [2025/06/26] Our related paer accepted by **ICCV 2025**: "GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis"[[Paper]](https://arxiv.org/abs/2411.16778)[[Link]](https://www.med-vqa.com/GEMeX/), Congrats to Bo ! !
 * [2024/12/02] Our paper submitted to IEEE TPAMI. 
 
 ## Citation
