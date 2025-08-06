@@ -15,10 +15,10 @@ Medical phrase grounding is crucial for identifying relevant regions in medical 
 4. Generalization to VQA and localization tasks.
 
 ## Results
-<p align="center"> <img src="image/Visio-Method.png" width="100%"> </p>
+<p align="center"> <img src="image/Visio-result3.png" width="100%"> </p>
 
 ## Applications
-<p align="center"> <img src="image/Visio-Method.png" width="100%"> </p>
+<p align="center"> <img src="image/Visio-Result-Application.png" width="100%"> </p>
 
 
 ## Requirment
