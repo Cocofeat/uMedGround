@@ -5,7 +5,7 @@
 ## Introduction
 Medical phrase grounding is crucial for identifying relevant regions in medical images based on phrase queries, facilitating accurate image analysis and diagnosis. However, current methods rely on manual extraction of key phrases from medical reports, reducing efficiency and increasing the workload for clinicians.  Additionally, the lack of model confidence estimation limits clinical trust and usability. In this paper, we introduce a novel task—Medical Report Grounding (MRG)—which aims to directly identify diagnostic phrases and their corresponding grounding boxes from medical reports in an end-to-end manner. To address this challenge, we propose uMedGround, a reliable framework that leverages a multimodal large language model (LLM) to predict diagnostic phrases by embedding a unique token, BOX, into the vocabulary to enhance detection capabilities. The embedded token, together with the input medical image, is decoded by a vision encoder-decoder to generate the corresponding grounding box. Critically, uMedGround incorporates an uncertainty-aware prediction model, significantly improving the robustness and reliability of grounding predictions. Experimental results demonstrate that uMedGround outperforms state-of-the-art medical phrase grounding methods and fine-tuned large visual-language models, validating its effectiveness and reliability. This study represents a pioneering exploration of the MRG task, marking the first-ever endeavor in this domain. Additionally, we explore the potential of uMedGround in grounded medical visual question answering and class-based localization applications.
 
-<div align=center><img width="900" height="400" alt="Our uMedGround framework" src="https://github.com/Cocofeat/uMedGround/image/Visio-Method.pdf"/></div>
+<div align=center><img width="900" height="400" alt="Our uMedGround framework" src="https://github.com/Cocofeat/uMedGround/image/Visio-Method.png"/></div>
 
 
 ## Requirment
@@ -41,9 +41,11 @@ If the paper goes to substantive review, we promise to disclose all the codes an
 - Run the script ```python main_test.py```
 
 ##  :fire: NEWS :fire:
-* [2025/08/06] We will release all codes and datasets as soon as possible. 
+
+* [2025/08/06] We will release all codes and datasets as soon as possible.
 * [2025/08/06] Our camera-ready paper was released first on the [arixv](https://arxiv.org/abs/2404.06798). 
 * [2025/08/04] Our paper was accepted by IEEE TPAMI 2025, thanks all my collobrators. 
+* [2025/06/26] Our paer accepted by **ICCV 2025**: "GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis"[[Paper]](https://arxiv.org/pdf/2406.09317)[[Link]](https://www.med-vqa.com/GEMeX/), Congrats to Bo ! !
 * [2024/12/02] Our paper submitted to IEEE TPAMI. 
 
 ## Citation
