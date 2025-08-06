@@ -58,10 +58,11 @@ and Bo, Liu
 and Yidi, Chen,
 and Chen, Zhihao
 and Chen, Yidi
-and Ren, Kai
-and Wang, Meng
 and Yuan, Xuedong
+and Wang, Meng
 and Shen, Xiaojing
+and Xiaochun Cao
+and Yih Chung Tham
 and Fu, Huazhu",
 title="MedRG: Medical Report Grounding with Multi-modal Large Language Model",
 journal={arXiv preprint arXiv:2404.06798},
