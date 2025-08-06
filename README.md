@@ -46,7 +46,7 @@ If the paper goes to substantive review, we promise to disclose all the datasets
 
 ## Code Usage
 For now, we've only exposed the main_train and main_test code to get a feel for this manuscript.
-If the paper goes to substantive review, we promise to disclose all the codes and pre-trained weights.
+We will release all codes and datasets as soon as possible.
 
 ### Train
 - Run the script ```python main_train.py```
