@@ -35,12 +35,21 @@ If the paper goes to substantive review, we promise to disclose all the codes an
 ### Test
 - Run the script ```python main_test.py```
 
+##  :fire: NEWS :fire:
+* [08/17] More experiments on trustworthy medical image segmentation please refer to [UMIS](https://github.com/Cocofeat/UMIS). 
+* [08/17] We released all the codes. 
+* [06/05] We will release the code as soon as possible. 
+* [06/13] We have uploaded the main part of our code. We will upload all the code after camera-ready.
+* [06/22] Our pre-printed version of the paper is available at [TBraTS: Trusted Brain Tumor Segmentation](https://arxiv.org/abs/2206.09309)
+
 ## Citation
 If you find uMedGround helps your research, please cite our paper:
 ```
 @InProceedings{uMedGround_Zou_2024,
 author="Zou, Ke
 and Bai, Yang
+and Bo, Liu
+and Yidi, Chen,
 and Chen, Zhihao
 and Chen, Yidi
 and Ren, Kai
