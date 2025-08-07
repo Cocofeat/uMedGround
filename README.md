@@ -14,16 +14,6 @@ Medical phrase grounding is crucial for identifying relevant regions in medical 
 3. Uncertainty-aware grounding prediction model; 
 4. Generalization to VQA and localization tasks.
 
-## Results
-<p align="center"> <img src="image/F_tabs.png" width="100%"> </p>
-
-## Visualizations
-<p align="center"> <img src="image/Visio-result3.jpg" width="100%"> </p>
-
-## Applications
-<p align="center"> <img src="image/Visio-Result-Application.jpg" width="100%"> </p>
-
-
 ## Requirment
 ```pip install requirements.txt```
 - torch==1.13.1
@@ -63,6 +53,15 @@ We will release all codes and datasets as soon as possible.
 * [2025/08/04] Our paper was accepted by IEEE TPAMI 2025, thanks all my collobrators. 
 * [2025/06/26] Our related paer accepted by **ICCV 2025**: "GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis"[[Paper]](https://arxiv.org/abs/2411.16778)[[Link]](https://www.med-vqa.com/GEMeX/), Congrats to Bo ! !
 * [2024/12/02] Our paper submitted to IEEE TPAMI. 
+
+## Results
+<p align="center"> <img src="image/F_tabs.png" width="100%"> </p>
+
+## Visualizations
+<p align="center"> <img src="image/Visio-result3.jpg" width="100%"> </p>
+
+## Applications
+<p align="center"> <img src="image/Visio-Result-Application.jpg" width="100%"> </p>
 
 ## Citation
 If you find uMedGround helps your research, please cite our paper:
