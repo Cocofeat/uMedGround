@@ -3,7 +3,7 @@
 * Current Pre-implementation of [uMedGround](https://arxiv.org/abs/2404.06798)
 
 ##  :fire: NEWS :fire:
-* [2025/08/13] If you are interested in Grounding-VLM, please email [me](kezou8@gmail.com) to join the Grounding-VLM research group..
+* [2025/08/13] We initiated the Grounding-VLM research group 🌐. If you are interested in Grounding-VLM, please email [me](kezou8@gmail.com) to join the Grounding-VLM research group.
 * [2025/08/06] We will release all codes and datasets as soon as possible.
 * [2025/08/06] Our camera-ready paper was released first on the [arixv](https://arxiv.org/abs/2404.06798). 
 * [2025/08/04] Our paper was accepted by IEEE TPAMI 2025, thanks all my collobrators. 
