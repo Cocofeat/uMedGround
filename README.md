@@ -1,6 +1,6 @@
 # uMedGround
 * This repository provides the code for our accepted TPAMI 2025 paper "Uncertainty-aware Medical Diagnostic Phrase Identifying and Grounding" 
-* Current Pre-implementation of **uMedGround** [arxiv](https://arxiv.org/abs/2404.06798)[IEEE](https://ieeexplore.ieee.org/abstract/document/11119420)
+* Current Pre-implementation of **uMedGround** [arxiv](https://arxiv.org/abs/2404.06798) / [IEEE](https://ieeexplore.ieee.org/abstract/document/11119420)
 
 ##  :fire: NEWS :fire:
 * [2025/08/13] We launched the Grounding-VLM research group 🌐. If you are interested in Grounding-VLM, please email [me](kezou8@gmail.com) to join the Grounding-VLM research group.
