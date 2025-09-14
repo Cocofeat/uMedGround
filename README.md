@@ -48,13 +48,14 @@ If the paper goes to substantive review, we promise to disclose all the datasets
 * [MRG-MIMIC-Class dataset]
 
 ## Code Usage
-For now, we've only exposed the main_train and main_test code to get a feel for this manuscript.
-We will release all codes and datasets as soon as possible.
-
-### Train
-- Run the script ```python main_train.py```
-### Test
-- Run the script ```python main_test.py```
+### 1. Download the pretrained weights
+- See the script ```./pretrained/readme.txt```
+### 2. Preparing the data for grounding
+- See the script ```In_data/readme.txt```
+### 3. Train
+- Run the script ```python train.py```
+### 4. Test
+- Run the script ```python test.py```
 
 ## Results
 <p align="center"> <img src="image/F_tabs.png" width="100%"> </p>
