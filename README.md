@@ -57,7 +57,7 @@ Download SAM ViT-H pre-trained weights from the [link](https://dl.fbaipublicfile
 #### MedSAM_vit_b weights
 Download SAM ViT-H pre-trained weights from the [link](https://drive.google.com/drive/folders/1ETWmi4AiniJeWOt6HAsYgTjYv_fkgzoN).
 
-### 2. Download them from the Curated Datasets links, and organize them as follows.
+### 2. Download the Curated Datasets from the above links, and organize them as follows.
 - See the script ```In_data/readme.txt```
 
 
