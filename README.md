@@ -50,8 +50,32 @@ If the paper goes to substantive review, we promise to disclose all the datasets
 ## Code Usage
 ### 1. Download the pretrained weights
 - See the script ```./pretrained/readme.txt```
-### 2. Preparing the data for grounding
+#### LLaVA
+To train LISA-7B or 13B, you need to follow the [instruction](https://github.com/haotian-liu/LLaVA/blob/main/docs/MODEL_ZOO.md) to merge the LLaVA delta weights. Typically, we use the final weights `LLaVA-Lightning-7B-v1-1` and `LLaVA-13B-v1-1` merged from `liuhaotian/LLaVA-Lightning-7B-delta-v1-1` and `liuhaotian/LLaVA-13b-delta-v1-1`, respectively. For Llama2, we can directly use the LLaVA full weights `liuhaotian/llava-llama-2-13b-chat-lightning-preview`.
+#### SAM ViT-H weights
+Download SAM ViT-H pre-trained weights from the [link](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth).
+#### MedSAM_vit_b weights
+Download SAM ViT-H pre-trained weights from the [link](https://drive.google.com/drive/folders/1ETWmi4AiniJeWOt6HAsYgTjYv_fkgzoN).
+
+### 2. Download them from the Curated Datasets links, and organize them as follows.
 - See the script ```In_data/readme.txt```
+
+
+```
+├── ./ln_data/reason_gro/MS_CXR
+│   ├── files
+│   │   ├── p10
+│   │       └── xxx.png
+│   │   ├── p11
+│   │       └── xxx.png
+│   │   ├── ...
+│   ├── X-ray14
+│   │   ├── resize_images
+│   │       └── xxx.png
+│   │       └── xxx.png
+│   │       └── ....png
+```
+
 ### 3. Train
 - Run the script ```python train.py```
 ### 4. Test
