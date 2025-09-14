@@ -3,6 +3,7 @@
 * Current Pre-implementation of **uMedGround** [arxiv](https://arxiv.org/abs/2404.06798) / [IEEE](https://ieeexplore.ieee.org/abstract/document/11119420)
 
 ##  :fire: NEWS :fire:
+* [2025/09/14] We have released all codes for uMedGround.
 * [2025/08/13] We launched the Grounding-VLM research group 🌐. If you are interested in Grounding-VLM, please email [me](kezou8@gmail.com) to join the Grounding-VLM research group.
 * [2025/08/06] We will release all codes and datasets as soon as possible.
 * [2025/08/06] Our camera-ready paper was released first on the [arixv](https://arxiv.org/abs/2404.06798). 
