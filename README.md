@@ -78,6 +78,31 @@ Download SAM ViT-H pre-trained weights from the [link](https://drive.google.com/
 
 ### 3. Train
 - Run the script ```python train.py```
+```
+deepspeed --master_port=24999 train.py \
+  --version="PATH_TO_LLaVA" \
+  --dataset_dir='./data' \
+  --vision_pretrained="PATH_TO_SAM" \
+  --dataset="vqa||reason_gro" \
+  --sample_rates="9,3,3,1" \
+  --exp_name="uMedGround-7b"
+   --mhp_box_head \# MedGround
+   --Umhp_box_head \# uMedGround
+```
+When training is finished, to get the full model weight:
+```
+cd ./runs/uMedGround-7b/ckpt_model && python zero_to_fp32.py . ../pytorch_model.bin
+```
+
+### Merge LoRA Weight
+Merge the LoRA weights of `pytorch_model.bin`, save the resulting model into your desired path in the Hugging Face format:
+```
+CUDA_VISIBLE_DEVICES="" python merge_lora_weights_and_save_hf_model.py \
+  --version="PATH_TO_LLaVA" \
+  --weight="PATH_TO_pytorch_model.bin" \
+  --save_path="PATH_TO_SAVED_MODEL"
+```
+
 ### 4. Test
 - Run the script ```python test.py```
 
