@@ -1,16 +1,6 @@
-# Data path
-##./ln_data/reason_gro/MS_CXR
-###./ln_data/reason_gro/MS_CXR/files # for MIMIC dataset
-[p10](https://drive.google.com/file/d/1KMhvvBLNP12-tZni8sP1KMY-pTIeUZSs/view?usp=drive_link)
-[p11](https://drive.google.com/file/d/1M83qvjIS79ahKbacylxKJwtRJXr4wGDL/view?usp=drive_link)
-[p12](https://drive.google.com/file/d/1sG9kJFYER5V3Qd4N84-cnyuWyh3KXqfP/view?usp=drive_link)
-[p13](https://drive.google.com/file/d/13mvHOgjwpQ14yHoBozpEE6JoP1Zj9IP5/view?usp=drive_link)
-[p14](https://drive.google.com/file/d/1GfAvUlOa6j870T5ABeMn5l8zCBHr1ptb/view?usp=drive_link)
-[p15](https://drive.google.com/file/d/1-SfmJWHwjQQhbjrPkltMquaEAZS1lulq/view?usp=drive_link)
-[p16](https://drive.google.com/file/d/1SaAMVjOxchdVUybCrTUEf8skUQGPqKvx/view?usp=drive_link)
-[p17](https://drive.google.com/file/d/1pcjW9NO37iTc9UCGYBZzmBvjLxeM3RLT/view?usp=drive_link)
-[p18](https://drive.google.com/file/d/1CuSN8lq1oxt2zOHGHWJkSvHL0lzs8sqT/view?usp=drive_link)
-[p19](https://drive.google.com/file/d/1YTQBfDIJEPNVUfmcbTMAtWAtDBo2Ibrd/view?usp=drive_link)
-###./ln_data/reason_gro/MS_CXR/X-ray14 # for ChestXray8 dataset
-/resized_images
-[Link](https://drive.google.com/file/d/1ZpNNsxZ2mIPERHbsKnpGcFmF2QN0vAhe/view?usp=drive_link)
+# Data Path
+
+| Path                                     | Dataset        | Description             | Download Link |
+|------------------------------------------|----------------|-------------------------|---------------|
+| `./ln_data/reason_gro/MS_CXR/files`      | MIMIC          | Files p10–p19           | [p10](https://drive.google.com/file/d/1KMhvvBLNP12-tZni8sP1KMY-pTIeUZSs/view?usp=drive_link), [p11](https://drive.google.com/file/d/1M83qvjIS79ahKbacylxKJwtRJXr4wGDL/view?usp=drive_link), [p12](https://drive.google.com/file/d/1sG9kJFYER5V3Qd4N84-cnyuWyh3KXqfP/view?usp=drive_link), [p13](https://drive.google.com/file/d/13mvHOgjwpQ14yHoBozpEE6JoP1Zj9IP5/view?usp=drive_link), [p14](https://drive.google.com/file/d/1GfAvUlOa6j870T5ABeMn5l8zCBHr1ptb/view?usp=drive_link), [p15](https://drive.google.com/file/d/1-SfmJWHwjQQhbjrPkltMquaEAZS1lulq/view?usp=drive_link), [p16](https://drive.google.com/file/d/1SaAMVjOxchdVUybCrTUEf8skUQGPqKvx/view?usp=drive_link), [p17](https://drive.google.com/file/d/1pcjW9NO37iTc9UCGYBZzmBvjLxeM3RLT/view?usp=drive_link), [p18](https://drive.google.com/file/d/1CuSN8lq1oxt2zOHGHWJkSvHL0lzs8sqT/view?usp=drive_link), [p19](https://drive.google.com/file/d/1YTQBfDIJEPNVUfmcbTMAtWAtDBo2Ibrd/view?usp=drive_link) |
+| `./ln_data/reason_gro/MS_CXR/X-ray14`    | ChestXray8     | Resized images folder   | [Download](https://drive.google.com/file/d/1ZpNNsxZ2mIPERHbsKnpGcFmF2QN0vAhe/view?usp=drive_link) |
