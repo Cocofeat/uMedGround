@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/70b9964b-2cb8-4e83-bb6c-79133c9ad288)# uMedGround
+# uMedGround
 * This repository provides the code for our accepted TPAMI 2025 paper "Uncertainty-aware Medical Diagnostic Phrase Identifying and Grounding" 
 * Current Pre-implementation of **uMedGround** [arxiv](https://arxiv.org/abs/2404.06798) / [IEEE](https://ieeexplore.ieee.org/abstract/document/11119420)
 
