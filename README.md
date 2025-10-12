@@ -145,4 +145,4 @@ year={2024}
 * If you have any problems about our work, please contact [me](kezou8@gmail.com) 
 * Project Link: [UMedGround](https://github.com/Cocofeat/UMedGround/)
 * Wechat Group:
-<p align="center"> <img src="image/Grounding-VLM.jpg" width="100%"> </p>
+<p align="center"> <img src="image/Grounding-VLM.png" width="80%"> </p>
