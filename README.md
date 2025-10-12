@@ -1,11 +1,11 @@
-# uMedGround
+![image](https://github.com/user-attachments/assets/70b9964b-2cb8-4e83-bb6c-79133c9ad288)# uMedGround
 * This repository provides the code for our accepted TPAMI 2025 paper "Uncertainty-aware Medical Diagnostic Phrase Identifying and Grounding" 
 * Current Pre-implementation of **uMedGround** [arxiv](https://arxiv.org/abs/2404.06798) / [IEEE](https://ieeexplore.ieee.org/abstract/document/11119420)
 
 ##  :fire: NEWS :fire:
 * [2025/09/22] We have released most datasets in the [link](https://github.com/Cocofeat/uMedGround/tree/main/ln_data).
 * [2025/09/14] We have released all codes for uMedGround. Curated Datasets are coming soon.
-* [2025/08/13] We launched the Grounding-VLM research group 🌐. If you are interested in Grounding-VLM, please email [me](kezou8@gmail.com) to join the Grounding-VLM research group.
+* [2025/08/13] We launched the Grounding-VLM research group 🌐. If you are interested in Grounding-VLM, please email [me](kezou8@gmail.com) to join the Grounding-VLM research group. 
 * [2025/08/06] We will release all codes and datasets as soon as possible.
 * [2025/08/06] Our camera-ready paper was released first on the [arixv](https://arxiv.org/abs/2404.06798). 
 * [2025/08/04] Our paper was accepted by IEEE TPAMI 2025, thanks all my collobrators. 
@@ -144,3 +144,4 @@ year={2024}
 ## Contact
 * If you have any problems about our work, please contact [me](kezou8@gmail.com) 
 * Project Link: [UMedGround](https://github.com/Cocofeat/UMedGround/)
+* Wechat Group: <p align="center"> <img src="image/Grounding-VLM.png" width="100%"> </p>
