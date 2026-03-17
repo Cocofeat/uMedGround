@@ -119,22 +119,12 @@ CUDA_VISIBLE_DEVICES="" python merge_lora_weights_and_save_hf_model.py \
 ## Citation
 If you find uMedGround helps your research, please cite our paper:
 ```
-@InProceedings{uMedGround_Zou_2024,
-author="Zou, Ke
-and Bai, Yang
-and Bo, Liu
-and Yidi, Chen,
-and Chen, Zhihao
-and Chen, Yidi
-and Yuan, Xuedong
-and Wang, Meng
-and Shen, Xiaojing
-and Xiaochun Cao
-and Yih Chung Tham
-and Fu, Huazhu",
-title="MedRG: Medical Report Grounding with Multi-modal Large Language Model",
-journal={arXiv preprint arXiv:2404.06798},
-year={2024}
+@article{zou2025uncertainty,
+  title={Uncertainty-aware medical diagnostic phrase identification and grounding},
+  author={Zou, Ke and Bai, Yang and Liu, Bo and Chen, Yidi and Chen, Zhihao and Zhou, Yang and Yuan, Xuedong and Wang, Meng and Shen, Xiaojing and Cao, Xiaochun and others},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2025},
+  publisher={IEEE}
 }
 ```
 
