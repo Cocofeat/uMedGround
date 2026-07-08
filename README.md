@@ -3,7 +3,7 @@
 * Current Pre-implementation of **uMedGround** [arxiv](https://arxiv.org/abs/2404.06798) / [IEEE](https://ieeexplore.ieee.org/abstract/document/11119420)
 
 ##  :fire: NEWS :fire:
-* [2026/07/08] We have released all datasets in the [link](https://github.com/Cocofeat/uMedGround/tree/main/ln_data) and model weights [link](https://drive.google.com/file/d/1vpsqyAw9gYctRWvp00nfEXZpjrKt5l_j/view).
+* [2026/07/08] We have released grounding datasets of MIMIC-CXR and ChestX-ray8 in the [link](https://github.com/Cocofeat/uMedGround/tree/main/ln_data) and model weights [link](https://drive.google.com/file/d/1vpsqyAw9gYctRWvp00nfEXZpjrKt5l_j/view).
 * [2025/09/22] We have released most datasets in the [link](https://github.com/Cocofeat/uMedGround/tree/main/ln_data).
 * [2025/09/14] We have released all codes for uMedGround. Curated Datasets are coming soon.
 * [2025/08/13] We launched the Grounding-VLM research group 🌐. If you are interested in Grounding-VLM, please email [me](kezou8@gmail.com) to join the Grounding-VLM research group. 
