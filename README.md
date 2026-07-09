@@ -3,7 +3,7 @@
 * Current Pre-implementation of **uMedGround** [arxiv](https://arxiv.org/abs/2404.06798) / [IEEE](https://ieeexplore.ieee.org/abstract/document/11119420)
 
 ##  :fire: NEWS :fire:
-* [2026/07/08] We have released the environment conda files[link](https://drive.google.com/file/d/1RG5YYr9svaSOkyFL1rObWRsy_5w2KLDj/view?usp=drive_link)
+* [2026/07/08] We have released the environment conda files in the [link](https://drive.google.com/file/d/1RG5YYr9svaSOkyFL1rObWRsy_5w2KLDj/view?usp=drive_link).
 * [2026/07/08] We have released grounding datasets of MIMIC-CXR and ChestX-ray8 in the [link](https://github.com/Cocofeat/uMedGround/tree/main/ln_data) and uMedGround model weights [link](https://drive.google.com/file/d/1vpsqyAw9gYctRWvp00nfEXZpjrKt5l_j/view).
 * [2025/09/22] We have released most datasets in the [link](https://github.com/Cocofeat/uMedGround/tree/main/ln_data).
 * [2025/09/14] We have released all codes for uMedGround. Curated Datasets are coming soon.
